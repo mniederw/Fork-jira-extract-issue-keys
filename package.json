@@ -20,18 +20,18 @@
   },
   "homepage": "https://github.com/HighwayThree/jira-extract-issue-keys#readme",
   "dependencies": {
-    "@octokit/rest": "^16.40.0",
-    "match-all": "^1.2.5"
+    "@octokit/rest": "^21.1.0",
+    "match-all": "^1.2.6"
   },
   "devDependencies": {
-    "@actions/core": "^1.2.2",
-    "@actions/github": "^2.1.0",
-    "@types/jest": "^25.1.2",
-    "@types/node": "^13.7.0",
-    "jest": "^25.1.0",
-    "js-yaml": "^3.13.1",
-    "nock": "^11.8.2",
-    "ts-jest": "^25.2.0",
-    "typescript": "^3.7.5"
+    "@actions/core": "^1.11.1",
+    "@actions/github": "^6.0.0",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.13.0",
+    "jest": "^29.7.0",
+    "js-yaml": "^4.1.0",
+    "nock": "^14.0.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.3"
   }
 }
