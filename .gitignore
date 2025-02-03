@@ -3,6 +3,8 @@
 *.iml
 *.iws
 
+*.tmp
+
 # Mac
 .DS_Store
 node_modules
